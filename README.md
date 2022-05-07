@@ -17,3 +17,10 @@ This Repository consists of all the programs along with the diagram of various i
   <img src="https://github.com/ADVAIT135/8051_interfacing/blob/b6cc379f537b12884725e4cecec69239eb8cdfef/3.png" / height ="300"/ width="600">
   <img src="https://github.com/ADVAIT135/8051_interfacing/blob/b6cc379f537b12884725e4cecec69239eb8cdfef/4.png" / height ="300"/ width="600">
  </p>
+<h2 align="left">Stepper Motor Interfacing with 8051 microcontroller :</h2>
+<p align="center">
+  <img src="https://github.com/ADVAIT135/8051_interfacing/blob/e4ef7fcee9dd45ad9fe6498e5f8dfac80601fb86/4.png" / height ="300"/ width="600">
+  <img src="https://github.com/ADVAIT135/8051_interfacing/blob/e4ef7fcee9dd45ad9fe6498e5f8dfac80601fb86/5.png" / height ="300"/ width="600">
+  <img src="https://github.com/ADVAIT135/8051_interfacing/blob/e4ef7fcee9dd45ad9fe6498e5f8dfac80601fb86/6.png" / height ="300"/ width="600">
+  <img src="https://github.com/ADVAIT135/8051_interfacing/blob/e4ef7fcee9dd45ad9fe6498e5f8dfac80601fb86/8.png" / height ="300"/ width="600">
+</p>
