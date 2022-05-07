@@ -24,3 +24,7 @@ This Repository consists of all the programs along with the diagram of various i
   <img src="https://github.com/ADVAIT135/8051_interfacing/blob/e4ef7fcee9dd45ad9fe6498e5f8dfac80601fb86/6.png" / height ="300"/ width="600">
   <img src="https://github.com/ADVAIT135/8051_interfacing/blob/e4ef7fcee9dd45ad9fe6498e5f8dfac80601fb86/8.png" / height ="300"/ width="600">
 </p>
+<h2 align="left">Seven Segment Interfacing with 8051 microcontroller :</h2>
+<p align="left">
+  <img src="https://github.com/ADVAIT135/8051_interfacing/blob/4084c7d06a6ffae32c7959f36a78131562691a02/7_seg.png" / height ="300"/ width="500">
+ </p>
